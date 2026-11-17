@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Secret credentials & database URIs
+.env
+.env.*
+
+# Production build & OS files
+dist/
+.DS_Store
