@@ -102,17 +102,9 @@ JWT-based authentication ensures secure communication between authorized users a
 
 | HTTP Method | Purpose |
 | --- | --- |
-| **GET** | Fetch requests
-
- |
-| **POST** | Create request
-
- |
-| **PATCH** | Update status
-
- |
-| **DELETE** | Delete request
-
- |
+| **GET** | Fetch requests|
+| **POST** | Create request|
+| **PATCH** | Update status|
+| **DELETE** | Delete request|
 
 **Project Goal:** To provide a centralized, responsive, and reliable web platform that simplifies donor discovery, emergency blood requests, and communication between donors and requesters.
