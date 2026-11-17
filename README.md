@@ -24,7 +24,6 @@ The Blood Donor Management System provides a centralized platform to simplify bl
 | Express.js 5 | REST API development |
 | MongoDB | Database |
 | Mongoose 8 | Database management |
-| JWT | Authentication and authorization |
 
 ## 3. System Architecture
 
