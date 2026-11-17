@@ -40,18 +40,17 @@ The system supports three user roles:
 
 - **Guest:** Search donors, view active blood requests, and register as a donor.
 - **Registered Donor:** Manage profile information, update location, change availability, and delete profile.
-- **Requester / Admin:** Create, track, fulfill, and cancel blood requests, and access dashboard statistics.
+- **Requester / Admin:** Create and cancel blood requests, and access dashboard statistics.
 
 ## 5. Core Features
 
-- User registration, login, and JWT authentication.
+- User registration.
 - Donor registration and profile management (CRUD).
 - Donor search using blood group and city filters.
 - Donor availability management.
 - Emergency blood request creation and tracking.
 - Request status management (Active, Fulfilled, Cancelled).
 - Dashboard displaying available donors and active requests.
-- Fixed bottom navigation for easy access to main screens.
 
 ## 6. UI/UX Design
 
@@ -59,8 +58,8 @@ The application follows a clean, minimal, and responsive web design.
 
 | Element | Specification |
 |---|---|
-| Primary Color | `#149B88` |
-| Background | `#F8FAFC` |
+| Primary Color | `Red` |
+| Background | `White` |
 | Card Background | White |
 | Framework | Tailwind CSS 4 |
 | Layout | Responsive Web |
