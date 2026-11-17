@@ -16,14 +16,15 @@ The Blood Donor Management System provides a centralized platform to simplify bl
 ## 2. Technology Stack
 
 | Layer | Technology | Version | Purpose |
-|---|---|
-| Frontend Framework | React | v18.3.1 | Frontend development |
-| Build Tool | Vite | 5.3.1 & 4.3.1 | Build tool and development server |
-| Styling | Tailwind CSS 4 | 3.4.3 & 1.16.0 | Responsive UI styling |
-| Backend Runtime | Node.js | v26.13.0 LTS | High-performance JavaScript server runtime |
-| Web Framework | Express.js 5 | v5.0 | REST API development |
-| Database | MongoDB | v8.0 | Database |
-| Database | Mongoose 8 | v8.9 | Database management |
+| :--- | :--- | :--- | :--- |
+| Frontend Framework | React | v18.3.1 | Component-based UI rendering |
+| Routing & Data | React Router | v7.1.1 | Client-side navigation, loaders, and form actions |
+| Build Tool | Vite (`@vitejs/plugin-react`) | v5.3.1 (`v4.3.1`) | Frontend development server and bundler |
+| Styling & Icons | Tailwind CSS & Lucide React | v3.4.3 & v1.16.0 | Responsive utility styling and UI icons |
+| Backend Runtime | Node.js | v22.x / v24.x LTS | JavaScript server runtime |
+| Web Framework | Express.js | v5.x | REST API routing and middleware |
+| Database | MongoDB Atlas | v8.0 | Cloud NoSQL document database |
+| ODM | Mongoose | v8.x | Schema modeling, validation, and queries |
 
 ## 3. System Architecture
 
