@@ -166,5 +166,4 @@ The Blood Donor Management System provides an efficient digital platform for don
 **Frontend:** React.js, , Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, Mongoose  
-**Authentication:** JWT  
 **Architecture:** Client-Server Architecture
