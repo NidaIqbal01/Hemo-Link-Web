@@ -25,7 +25,6 @@ The system provides end-to-end CRUD (Create, Read, Update, Delete) functionality
 | Backend Runtime | Node.js | 26.13.0 LTS |
 | Web Framework | Express.js | 5.0 |
 | Database & ODM | MongoDB & Mongoose | 8.0 / 8.9 |
-| Authentication | JWT (jsonwebtoken) | 9.0 |
 
 ### 3. User Roles & Access Control
 
