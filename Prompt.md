@@ -31,3 +31,10 @@ Prompt no3:
 
 Write the complete frontend React code for my blood donation website with 3 screens (Donor Directory, Register Donor, and Blood Requests) using Tailwind CSS with advanced route loaders.
 
+ Prompt no4:
+
+ Write testing code for my complete HemoLink project using Vitest and React Testing Library. Test all three screens, including forms, validations, buttons, filters, navigation, API functionality, and database operations. Check both valid and invalid inputs, identify bugs, and make sure the tests work with my existing React + Vite project without unnecessarily changing the original code.
+
+ Prompt no5:
+
+ Keep the testing simple. I don’t want too many testing files or complicated code. Create one main test file covering all three screens of HemoLink, with important positive and negative test cases. Focus on the main functionality and avoid unnecessary test cases.
