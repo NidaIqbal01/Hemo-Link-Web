@@ -1,4 +1,5 @@
 Prompt no1:
+
 Below are the requirements for my gen AI Task I want you to go through all these requirements in detail and help me design a blood donation app Group presentation and live demo 
 Task: Each group, build a small full-stack app with LLM help and present it live (10 min demo 
 + 5 min Q&A). 
