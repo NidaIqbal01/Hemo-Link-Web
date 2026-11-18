@@ -35,10 +35,6 @@ Prompt no 4:
 
 The code works well but in the donor and patient registration forms the city fields accept any number symbol or character ensure proper exception handling throughout the website along with consistency. No need to change any functionality retain every.
 
-Prompt no5:
-
-you didn't provide any html or css files. Make sure to give me the entire project code and guide me regarding how I should run the project along with a project files structure to ensure all files are arranged properly?
-
  Prompt no6 (Frontend Test cases):
 
 Write testing code for my complete HemoLink project using Vitest and React Testing Library. Test all three screens, including forms, validations, buttons, filters, navigation, API functionality, and database operations. Check both valid and invalid inputs, identify bugs, and make sure the tests work with my existing React + Vite project without unnecessarily changing the original code.
