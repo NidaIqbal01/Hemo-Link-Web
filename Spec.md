@@ -5,11 +5,9 @@
 
 The Blood Donor Management System is a full-stack, browser-based web application designed to connect blood donors with individuals requiring blood. It follows a decoupled client-server architecture, separating the React frontend from the backend RESTful API.
 
-The system provides end-to-end CRUD (Create, Read, Update, Delete) functionality across five core modules: Authentication, Donor Registration, Donor Search, Request Management, and Dashboard Integration.
+The system provides end-to-end CRUD (Create, Read, Update, Delete) functionality across five core modules:Donor Registration, Donor Search, Request Management, and Dashboard Integration.
 
 **UI/UX Design Requirements:**
-- Primary Color: Deep Teal (#149B88).
-- Background: Light Gray (#F8FAFC).
 - Responsive desktop and web-browser interface.
 - Medium-sized buttons with clear hover and active states.
 - Minimal, uncluttered layouts with balanced spacing.
