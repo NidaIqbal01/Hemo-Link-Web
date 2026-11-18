@@ -30,9 +30,8 @@ The system provides end-to-end CRUD (Create, Read, Update, Delete) functionality
 
 | User Role | Permissions |
 |---|---|
-| Guest User | View active blood requests, search donors by blood group and city, and register as a donor. |
 | Registered Donor | Manage profile details, update location, toggle availability (Available/Unavailable), and delete profile. |
-| Requester / Admin | Create, track, resolve, and cancel emergency blood requests; access dashboard statistics and system analytics. |
+| Blood Request	 | Represents blood requests managed under the Blood Requests section.|
 
 ### 4. Functional Modules & Web Screens
 
@@ -68,12 +67,11 @@ The system provides end-to-end CRUD (Create, Read, Update, Delete) functionality
 **Module 5: Authentication & Navigation**
 
 - Implement secure user registration and login.
-- Apply role-based access control for different user types.
-- Provide a persistent fixed bottom navigation bar across all views with four navigation options:
-  1. Dashboard
-  2. Find Donors
-  3. Register Donor
-  4. Blood Requests
+- Provide a persistent fixed top navigation bar across all views with three navigation options:
+
+  1. Find Donors
+  2. Register Donor
+  3. Blood Requests
 
 ### 5. Non-Functional Requirements
 
