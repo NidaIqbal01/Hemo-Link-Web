@@ -37,22 +37,21 @@ The application follows a **decoupled client-server architecture**, separating t
 
 ## 4. User Roles
 
-The system supports three user roles:
+The system supports two user roles:
 
-- **Guest:** Search donors, view active blood requests, and register as a donor.
-- **Registered Donor:** Manage profile information, update location, change availability, and delete profile.
-- **Requester / Admin:** Create, track, fulfill, and cancel blood requests, and access dashboard statistics.
+- **Donor:** Manage profile information, update location, change availability, and delete profile.
+- **Blood Request:** Represents blood requests managed under the Blood Requests section.
 
 ## 5. Core Features
 
-- User registration, login, and JWT authentication.
+
 - Donor registration and profile management (CRUD).
 - Donor search using blood group and city filters.
 - Donor availability management.
 - Emergency blood request creation and tracking.
 - Request status management (Active, Fulfilled, Cancelled).
 - Dashboard displaying available donors and active requests.
-- Fixed bottom navigation for easy access to main screens.
+
 
 ## 6. UI/UX Design
 
@@ -149,6 +148,7 @@ Open the Vite URL in your browser, usually:
 
 ## 11. Future Enhancements
 
+- User registration, login, and JWT authentication
 - SMS and email notifications.
 - Real-time donor matching.
 - Google Maps integration.
